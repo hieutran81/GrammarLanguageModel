@@ -1,0 +1,3 @@
+I modified Warstadt (2020)'s codes to create these codes and generate our sentences for the fine-tuning. These codes use the util functions from Warstadt (2020). 
+Because I did not edit their util functions except for some error corrections probably due to the python version difference, I do not upload their util functions here. 
+To run these codes, download Warstadt's codes from here (https://github.com/alexwarstadt/data_generation) and put these codes under data_generation-master/generation_project/examples.

@@ -1,0 +1,81 @@
+,item,Correct,gap,island,C1,C2,Response
+0,1,FALSE,no,that_obj_island,I know that your tears signaled an indication that signaled depression,I know what your tears signaled an indication that signaled depression,Both sequences are complete sentences.
+0,2,FALSE,no,that_obj_island,I remember that we all pitched in to buy the gift that we bought Mary,I remember who we all pitched in to buy the gift that we bought Mary,Both sequences are complete sentences.
+0,3,FALSE,no,that_obj_island,The newspaper reported that the critics reviewed the novel that provoked the famous author,The newspaper reported who the critics reviewed the novel that provoked the famous author,Both sequences are complete sentences.
+0,4,FALSE,no,that_obj_island,I know that the family bought the painting that depicted Monet,I know who the family bought the painting that depicted Monet,Both sequences are complete sentences.
+0,5,FALSE,no,that_obj_island,You remember that the spy sold the instructions that showed how to operate the submarine,You remember what the spy sold the instructions that showed how to operate the submarine,Both sequences are complete sentences.
+0,6,FALSE,no,that_obj_island,She told me that he has had an allergy that is caused by peanuts,She told me what he has had an allergy that is caused by peanuts,Both sequences are complete sentences.
+0,7,FALSE,no,that_obj_island,She knows that the doorman accepted the delivery that shocked Sarah,She knows who the doorman accepted the delivery that shocked Sarah,Both sequences are complete sentences.
+0,8,FALSE,no,that_obj_island,We all remember that the mailman lost the package that Sarah described to Robert,We all remember who the mailman lost the package that Sarah described to Robert,Both sequences are complete sentences.
+0,9,FALSE,no,that_obj_island,My friend reported that we listened to the symphony that was dedicated to Mozart,My friend reported who we listened to the symphony that was dedicated to Mozart,Both sequences are complete sentences.
+0,11,FALSE,no,that_obj_island,She can guess that my friend wrote a forward that introduced the new manuscript,She can guess what my friend wrote a forward that introduced the new manuscript,Both sequences are complete sentences.
+0,12,FALSE,no,that_obj_island,The newspaper reported that she made the salad dressing from a mix that included oil and vinegar,The newspaper reported what she made the salad dressing from a mix that included oil and vinegar, Both sequences are complete sentences.
+0,13,FALSE,no,that_obj_island,We recall that the blogger drafted a critique that was aimed at the fossil fuel industry,We recall what the blogger drafted a critique that was aimed at the fossil fuel industry,Both sequences are complete sentences.
+0,14,FALSE,no,that_obj_island,I remember that the politician wrote a diatribe that criticized the mayor,I remember who the politician wrote a diatribe that criticized the mayor,Both sequences are complete sentences.
+0,15,FALSE,no,that_obj_island,Our friend guessed that we saw a picture that showed the convict,Our friend guessed who we saw a picture that showed the convict,Both sequences are complete sentences.
+0,16,FALSE,no,that_obj_island,The mayor told me that the newspapers printed a photograph that shocked the public,The mayor told me who the newspapers printed a photograph that shocked the public,Both sequences are complete sentences.
+0,17,FALSE,no,that_obj_island,My friend remembers that the monk penned a description that mocked abbey life,My friend remembers what the monk penned a description that mocked abbey life,Both sequences are complete sentences.
+0,18,FALSE,no,that_obj_island,The newspaper said that I picked out the present that we gave Simon,The newspaper said who I picked out the present that we gave Simon,Both sequences are complete sentences.
+0,19,FALSE,no,that_obj_island,Our neighbor said that she won the argument that concerned childcare,Our neighbor said what she won the argument that concerned childcare,Both sequences are complete sentences.
+0,20,FALSE,no,that_obj_island,My friend told me that he wrote a proposal that he will deliver to the board,My friend told me who he wrote a proposal that he will deliver to the board,Both sequences are complete sentences.
+0,21,FALSE,no,that_obj_island,She can not believe that we attended a conference that popularized cell evolution,She can not believe what we attended a conference that popularized cell evolution,Both sequences are complete sentences.
+0,1,FALSE,yes,that_obj_island,I know that your tears signaled an indication that signaled,I know what your tears signaled an indication that signaled,"""I know that your tears signaled an indication that signaled last night."""
+0,2,FALSE,yes,that_obj_island,I remember that we all pitched in to buy the gift that we bought,I remember who we all pitched in to buy the gift that we bought,Both sequences are complete sentences.
+0,3,FALSE,yes,that_obj_island,The newspaper reported that the critics reviewed the novel that provoked,The newspaper reported who the critics reviewed the novel that provoked,Both sequences are complete sentences.
+0,4,FALSE,yes,that_obj_island,I know that the family bought the painting that depicted,I know who the family bought the painting that depicted,Both sequences are complete sentences.
+0,5,FALSE,yes,that_obj_island,You remember that the spy sold the instructions that showed how to operate,You remember what the spy sold the instructions that showed how to operate,Both sequences are complete sentences.
+0,6,FALSE,yes,that_obj_island,She told me that he has had an allergy that is caused by,She told me what he has had an allergy that is caused by,Both sequences are complete sentences.
+0,7,FALSE,yes,that_obj_island,She knows that the doorman accepted the delivery that shocked,She knows who the doorman accepted the delivery that shocked,Both sequences are complete sentences.
+0,8,FALSE,yes,that_obj_island,We all remember that the mailman lost the package that Sarah described to,We all remember who the mailman lost the package that Sarah described to,Both sequences are complete sentences.
+0,9,FALSE,yes,that_obj_island,My friend reported that we listened to the symphony that was dedicated to,My friend reported who we listened to the symphony that was dedicated to,Both sequences are complete sentences.
+0,11,FALSE,yes,that_obj_island,She can guess that my friend wrote a forward that introduced,She can guess what my friend wrote a forward that introduced,"""She can guess that my friend wrote a forward that introduced over the weekend."""
+0,12,FALSE,yes,that_obj_island,The newspaper reported that she made the salad dressing from a mix that included,The newspaper reported what she made the salad dressing from a mix that included,"""The newspaper reported that she made the salad dressing from a mix that included every time she cooked."""
+0,13,FALSE,yes,that_obj_island,We recall that the blogger drafted a critique that was aimed at,We recall what the blogger drafted a critique that was aimed at,Both sequences are complete sentences.
+0,14,FALSE,yes,that_obj_island,I remember that the politician wrote a diatribe that criticized,I remember who the politician wrote a diatribe that criticized,Both sequences are complete sentences.
+0,15,FALSE,yes,that_obj_island,Our friend guessed that we saw a picture that showed,Our friend guessed who we saw a picture that showed,Both sequences are complete sentences.
+0,16,FALSE,yes,that_obj_island,The mayor told me that the newspapers printed a photograph that shocked,The mayor told me who the newspapers printed a photograph that shocked,Both sequences are complete sentences.
+0,17,FALSE,yes,that_obj_island,My friend remembers that the monk penned a description that mocked,My friend remembers what the monk penned a description that mocked,Both sequences are complete sentences.
+0,18,FALSE,yes,that_obj_island,The newspaper said that I picked out the present that we gave,The newspaper said who I picked out the present that we gave,Both sequences are complete sentences.
+0,19,FALSE,yes,that_obj_island,Our neighbor said that she won the argument that concerned,Our neighbor said what she won the argument that concerned,Both sequences are complete sentences.
+0,20,FALSE,yes,that_obj_island,My friend told me that he wrote a proposal that he will deliver to,My friend told me who he wrote a proposal that he will deliver to,Both sequences are complete sentences.
+0,21,FALSE,yes,that_obj_island,She can not believe that we attended a conference that popularized,She can not believe what we attended a conference that popularized,Both sequences are complete sentences.
+0,1,FALSE,no,prep_obj_island,I know that your tears signaled an indication of depression,I know what your tears signaled an indication of depression,Both sequences are complete sentences.
+0,2,FALSE,no,prep_obj_island,I remember that we all pitched in to buy the gift for Mary,I remember who we all pitched in to buy the gift for Mary,Both sequences are complete sentences.
+0,3,FALSE,no,prep_obj_island,The newspaper reported that the critics reviewed the novel by the famous author,The newspaper reported who the critics reviewed the novel by the famous author,Both sequences are complete sentences.
+0,4,FALSE,no,prep_obj_island,I know that the family bought the painting by Monet,I know who the family bought the painting by Monet,Both sequences are complete sentences.
+0,5,FALSE,no,prep_obj_island,You remember that the spy sold the instructions for the submarine,You remember what the spy sold the instructions for the submarine,Both sequences are complete sentences.
+0,6,FALSE,no,prep_obj_island,She told me that he has had an allergy to peanuts,She told me what he has had an allergy to peanuts,Both sequences are complete sentences.
+0,7,FALSE,no,prep_obj_island,She knows that the doorman accepted the delivery for Sarah,She knows who the doorman accepted the delivery for Sarah,Both sequences are complete sentences.
+0,8,FALSE,no,prep_obj_island,We all remember that the mailman lost the package for Robert,We all remember who the mailman lost the package for Robert,Both sequences are complete sentences.
+0,9,FALSE,no,prep_obj_island,My friend reported that we listened to the symphony by Mozart,My friend reported who we listened to the symphony by Mozart,Both sequences are complete sentences.
+0,11,FALSE,no,prep_obj_island,She can guess that my friend wrote a forward for the new manuscript,She can guess what my friend wrote a forward for the new manuscript,Both sequences are complete sentences.
+0,12,FALSE,no,prep_obj_island,The newspaper reported that she made the salad dressing from a mix of oil and vinegar,The newspaper reported what she made the salad dressing from a mix of oil and vinegar,Both sequences are complete sentences.
+0,13,FALSE,no,prep_obj_island,We recall that the blogger drafted a critique of the fossil fuel industry,We recall what the blogger drafted a critique of the fossil fuel industry,Both sequences are complete sentences.
+0,14,FALSE,no,prep_obj_island,I remember that the politician wrote a diatribe against the mayor,I remember who the politician wrote a diatribe against the mayor,Both sequences are complete sentences.
+0,15,FALSE,no,prep_obj_island,Our friend guessed that we saw a picture of the convict,Our friend guessed who we saw a picture of the convict,Both sequences are complete sentences.
+0,16,FALSE,no,prep_obj_island,The mayor told me that the newspapers printed a photograph of the general,The mayor told me who the newspapers printed a photograph of the general, Both sequences are complete sentences.
+0,17,FALSE,no,prep_obj_island,My friend remembers that the monk penned a description of abbey life,My friend remembers what the monk penned a description of abbey life,Both sequences are complete sentences.
+0,18,FALSE,no,prep_obj_island,The newspaper said that I picked out the present for Simon,The newspaper said who I picked out the present for Simon,Both sequences are complete sentences.
+0,19,FALSE,no,prep_obj_island,Our neighbor said that she won the argument about childcare,Our neighbor said what she won the argument about childcare,Both sequences are complete sentences.
+0,20,FALSE,no,prep_obj_island,My friend told me that he wrote a proposal for the board,My friend told me who he wrote a proposal for the board,Both sequences are complete sentences.
+0,21,FALSE,no,prep_obj_island,She can not believe that we attended a conference on cell evolution,She can not believe what we attended a conference on cell evolution,Both sequences are complete sentences.
+0,1,FALSE,yes,prep_obj_island,I know that your tears signaled an indication of,I know what your tears signaled an indication of,Both sequences are complete sentences.
+0,2,FALSE,yes,prep_obj_island,I remember that we all pitched in to buy the gift for,I remember who we all pitched in to buy the gift for, Both sequences are complete sentences.
+0,3,FALSE,yes,prep_obj_island,The newspaper reported that the critics reviewed the novel by,The newspaper reported who the critics reviewed the novel by,"""The newspaper reported that the critics reviewed the novel in the press."""
+0,4,FALSE,yes,prep_obj_island,I know that the family bought the painting by,I know who the family bought the painting by,Both sequences are complete sentences.
+0,5,FALSE,yes,prep_obj_island,You remember that the spy sold the instructions for,You remember what the spy sold the instructions for,"""You remember that the spy sold the instructions for much to our regret."""
+0,6,FALSE,yes,prep_obj_island,She told me that he has had an allergy to,She told me what he has had an allergy to,Both sequences are complete sentences.
+0,7,FALSE,yes,prep_obj_island,She knows that the doorman accepted the delivery for,She knows who the doorman accepted the delivery for,Both sequences are complete sentences.
+0,8,FALSE,yes,prep_obj_island,We all remember that the mailman lost the package for,We all remember who the mailman lost the package for,"""We all remember that the mailman lost the package for in the holiday rush."""
+0,9,FALSE,yes,prep_obj_island,My friend reported that we listened to the symphony by,My friend reported who we listened to the symphony by,Both sequences are complete sentences.
+0,11,FALSE,yes,prep_obj_island,She can guess that my friend wrote a forward for,She can guess what my friend wrote a forward for,"""She can guess that my friend wrote a forward for over the weekend."""
+0,12,FALSE,yes,prep_obj_island,The newspaper reported that she made the salad dressing from a mix of,The newspaper reported what she made the salad dressing from a mix of,"""The newspaper reported that she made the salad dressing from a mix of every time she cooked."""
+0,13,FALSE,yes,prep_obj_island,We recall that the blogger drafted a critique of,We recall what the blogger drafted a critique of,Both sequences are complete sentences.
+0,14,FALSE,yes,prep_obj_island,I remember that the politician wrote a diatribe against,I remember who the politician wrote a diatribe against,Both sequences are complete sentences.
+0,15,FALSE,yes,prep_obj_island,Our friend guessed that we saw a picture of,Our friend guessed who we saw a picture of,Both sequences are complete sentences.
+0,16,FALSE,yes,prep_obj_island,The mayor told me that the newspapers printed a photograph of,The mayor told me who the newspapers printed a photograph of,Both sequences are complete sentences.
+0,17,FALSE,yes,prep_obj_island,My friend remembers that the monk penned a description of,My friend remembers what the monk penned a description of,Both sequences are complete sentences.
+0,18,FALSE,yes,prep_obj_island,The newspaper said that I picked out the present for,The newspaper said who I picked out the present for,Both sequences are complete sentences.
+0,19,FALSE,yes,prep_obj_island,Our neighbor said that she won the argument about,Our neighbor said what she won the argument about,Both sequences are complete sentences.
+0,20,FALSE,yes,prep_obj_island,My friend told me that he wrote a proposal for,My friend told me who he wrote a proposal for, Both sequences are complete sentences.
+0,21,FALSE,yes,prep_obj_island,She can not believe that we attended a conference on,She can not believe what we attended a conference on, Both sequences are complete sentences.

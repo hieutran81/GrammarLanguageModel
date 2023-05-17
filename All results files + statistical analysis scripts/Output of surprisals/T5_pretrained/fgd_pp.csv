@@ -1,0 +1,285 @@
+,surprisals,prefix,continuation
+0,10.892215,I know that our uncle grabbed the food in front of<extra_id_0> ,at
+1,3.51436,I know that our uncle grabbed the food in front of at<extra_id_0> ,the
+2,7.8446918,I know that our uncle grabbed the food in front of at the<extra_id_0> ,holiday
+3,2.230509,I know that our uncle grabbed the food in front of at the holiday<extra_id_0> ,party
+4,5.9890885,I know that our uncle grabbed the food in front of the guests<extra_id_0> ,at
+5,0.8742748,I know that our uncle grabbed the food in front of the guests at<extra_id_0> ,the
+6,6.963366,I know that our uncle grabbed the food in front of the guests at the<extra_id_0> ,holiday
+7,1.6863552,I know that our uncle grabbed the food in front of the guests at the holiday<extra_id_0> ,party
+8,9.157131,I know who our uncle grabbed the food in front of<extra_id_0> ,at
+9,1.5887372,I know who our uncle grabbed the food in front of at<extra_id_0> ,the
+10,7.3900685,I know who our uncle grabbed the food in front of at the<extra_id_0> ,holiday
+11,2.0106564,I know who our uncle grabbed the food in front of at the holiday<extra_id_0> ,party
+12,6.602805,I know who our uncle grabbed the food in front of the guests<extra_id_0> ,at
+13,0.93808925,I know who our uncle grabbed the food in front of the guests at<extra_id_0> ,the
+14,6.191692,I know who our uncle grabbed the food in front of the guests at the<extra_id_0> ,holiday
+15,1.912353,I know who our uncle grabbed the food in front of the guests at the holiday<extra_id_0> ,party
+16,11.84232,My neighbor told me that the dog caught the mouse in full view of<extra_id_0> ,yesterday
+17,12.679381,My neighbor told me that the dog caught the mouse in full view of the neighbors<extra_id_0> ,yesterday
+18,8.161369,My neighbor told me who the dog caught the mouse in full view of<extra_id_0> ,yesterday
+19,11.64212,My neighbor told me who the dog caught the mouse in full view of the neighbors<extra_id_0> ,yesterday
+20,9.298149,I know that the committee delivered the report report to<extra_id_0> ,by
+21,2.394905,I know that the committee delivered the report report to by<extra_id_0> ,the
+22,4.0978084,I know that the committee delivered the report report to by the<extra_id_0> ,deadline
+23,7.8189335,I know that the committee delivered the report report to the president<extra_id_0> ,by
+24,2.3478148,I know that the committee delivered the report report to the president by<extra_id_0> ,the
+25,3.3796318,I know that the committee delivered the report report to the president by the<extra_id_0> ,deadline
+26,7.516895,I know who the committee delivered the report report to<extra_id_0> ,by
+27,3.2702618,I know who the committee delivered the report report to by<extra_id_0> ,the
+28,4.873401,I know who the committee delivered the report report to by the<extra_id_0> ,deadline
+29,9.076695,I know who the committee delivered the report report to the president<extra_id_0> ,by
+30,2.8785985,I know who the committee delivered the report report to the president by<extra_id_0> ,the
+31,4.488574,I know who the committee delivered the report report to the president by the<extra_id_0> ,deadline
+32,10.767801,You remember that the businessman showed the presentation presentation to<extra_id_0> ,after
+33,4.319329,You remember that the businessman showed the presentation presentation to after<extra_id_0> ,lunch
+34,7.332073,You remember that the businessman showed the presentation presentation to the visitors<extra_id_0> ,after
+35,2.9934373,You remember that the businessman showed the presentation presentation to the visitors after<extra_id_0> ,lunch
+36,8.048437,You remember who the businessman showed the presentation presentation to<extra_id_0> ,after
+37,5.400983,You remember who the businessman showed the presentation presentation to after<extra_id_0> ,lunch
+38,7.9789033,You remember who the businessman showed the presentation presentation to the visitors<extra_id_0> ,after
+39,4.108643,You remember who the businessman showed the presentation presentation to the visitors after<extra_id_0> ,lunch
+40,8.36436,She told me that the star student stole answers to the test test from<extra_id_0> ,last
+41,0.49249893,She told me that the star student stole answers to the test test from last<extra_id_0> ,year
+42,6.4406,She told me that the star student stole answers to the test test from the history teacher<extra_id_0> ,last
+43,0.9101759,She told me that the star student stole answers to the test test from the history teacher last<extra_id_0> ,year
+44,7.308558,She told me who the star student stole answers to the test test from<extra_id_0> ,last
+45,0.7253904,She told me who the star student stole answers to the test test from last<extra_id_0> ,year
+46,5.835184,She told me who the star student stole answers to the test test from the history teacher<extra_id_0> ,last
+47,1.1451414,She told me who the star student stole answers to the test test from the history teacher last<extra_id_0> ,year
+48,3.850605,She knows that the collector forged the painting with the help of<extra_id_0> ,a
+49,9.028017,She knows that the collector forged the painting with the help of a<extra_id_0> ,short
+50,4.961572,She knows that the collector forged the painting with the help of a short<extra_id_0> ,while
+51,1.9697063,She knows that the collector forged the painting with the help of a short while<extra_id_0> ,ago
+52,4.451531,She knows that the collector forged the painting with the help of a new technology<extra_id_0> ,a
+53,7.2239966,She knows that the collector forged the painting with the help of a new technology a<extra_id_0> ,short
+54,1.9171127,She knows that the collector forged the painting with the help of a new technology a short<extra_id_0> ,while
+55,0.27899924,She knows that the collector forged the painting with the help of a new technology a short while<extra_id_0> ,ago
+56,5.618486,She knows what the collector forged the painting with the help of<extra_id_0> ,a
+57,8.899734,She knows what the collector forged the painting with the help of a<extra_id_0> ,short
+58,6.8745675,She knows what the collector forged the painting with the help of a short<extra_id_0> ,while
+59,2.20871,She knows what the collector forged the painting with the help of a short while<extra_id_0> ,ago
+60,4.8975058,She knows what the collector forged the painting with the help of a new technology<extra_id_0> ,a
+61,7.8415427,She knows what the collector forged the painting with the help of a new technology a<extra_id_0> ,short
+62,3.2176018,She knows what the collector forged the painting with the help of a new technology a short<extra_id_0> ,while
+63,0.24072559,She knows what the collector forged the painting with the help of a new technology a short while<extra_id_0> ,ago
+64,9.901114,We all remember that the convict brought a gun gun into<extra_id_0> ,two
+65,7.0814724,We all remember that the convict brought a gun gun into two<extra_id_0> ,weeks
+66,5.5452576,We all remember that the convict brought a gun gun into two weeks<extra_id_0> ,ago
+67,9.321016,We all remember that the convict brought a gun gun into the prison<extra_id_0> ,two
+68,1.9761084,We all remember that the convict brought a gun gun into the prison two<extra_id_0> ,weeks
+69,1.016922,We all remember that the convict brought a gun gun into the prison two weeks<extra_id_0> ,ago
+70,10.274198,We all remember what the convict brought a gun gun into<extra_id_0> ,two
+71,6.188932,We all remember what the convict brought a gun gun into two<extra_id_0> ,weeks
+72,2.958132,We all remember what the convict brought a gun gun into two weeks<extra_id_0> ,ago
+73,10.426069,We all remember what the convict brought a gun gun into the prison<extra_id_0> ,two
+74,2.204114,We all remember what the convict brought a gun gun into the prison two<extra_id_0> ,weeks
+75,0.50391483,We all remember what the convict brought a gun gun into the prison two weeks<extra_id_0> ,ago
+76,5.3604937,My friend reported that the company will sell multiple assets assets for<extra_id_0> ,over
+77,5.5454836,My friend reported that the company will sell multiple assets assets for over<extra_id_0> ,the
+78,9.348074,My friend reported that the company will sell multiple assets assets for over the<extra_id_0> ,subsequent
+79,4.572222,My friend reported that the company will sell multiple assets assets for over the subsequent<extra_id_0> ,quarter
+80,8.813436,My friend reported that the company will sell multiple assets assets for stock holders<extra_id_0> ,over
+81,0.26158658,My friend reported that the company will sell multiple assets assets for stock holders over<extra_id_0> ,the
+82,8.79251,My friend reported that the company will sell multiple assets assets for stock holders over the<extra_id_0> ,subsequent
+83,4.1666837,My friend reported that the company will sell multiple assets assets for stock holders over the subsequent<extra_id_0> ,quarter
+84,6.274728,My friend reported who the company will sell multiple assets assets for<extra_id_0> ,over
+85,4.833979,My friend reported who the company will sell multiple assets assets for over<extra_id_0> ,the
+86,9.405808,My friend reported who the company will sell multiple assets assets for over the<extra_id_0> ,subsequent
+87,4.925545,My friend reported who the company will sell multiple assets assets for over the subsequent<extra_id_0> ,quarter
+88,9.51173,My friend reported who the company will sell multiple assets assets for stock holders<extra_id_0> ,over
+89,0.7259494,My friend reported who the company will sell multiple assets assets for stock holders over<extra_id_0> ,the
+90,8.5134535,My friend reported who the company will sell multiple assets assets for stock holders over the<extra_id_0> ,subsequent
+91,4.3889413,My friend reported who the company will sell multiple assets assets for stock holders over the subsequent<extra_id_0> ,quarter
+92,7.951543,I do not know that her rival derailed the performance performance with<extra_id_0> ,last
+93,2.2727067,I do not know that her rival derailed the performance performance with last<extra_id_0> ,week
+94,8.902009,I do not know that her rival derailed the performance performance with a cruel plan<extra_id_0> ,last
+95,2.4297152,I do not know that her rival derailed the performance performance with a cruel plan last<extra_id_0> ,week
+96,4.9663696,I do not know what her rival derailed the performance performance with<extra_id_0> ,last
+97,2.1491225,I do not know what her rival derailed the performance performance with last<extra_id_0> ,week
+98,7.6321983,I do not know what her rival derailed the performance performance with a cruel plan<extra_id_0> ,last
+99,2.3586972,I do not know what her rival derailed the performance performance with a cruel plan last<extra_id_0> ,week
+100,10.870348,She can guess that the movie star will be awarded a prize prize for<extra_id_0> ,during
+101,0.9323343,She can guess that the movie star will be awarded a prize prize for during<extra_id_0> ,the
+102,6.1457024,She can guess that the movie star will be awarded a prize prize for during the<extra_id_0> ,award
+103,0.55890965,She can guess that the movie star will be awarded a prize prize for during the award<extra_id_0> ,ceremony
+104,5.35506,She can guess that the movie star will be awarded a prize prize for her hard work<extra_id_0> ,during
+105,0.81631935,She can guess that the movie star will be awarded a prize prize for her hard work during<extra_id_0> ,the
+106,5.7360034,She can guess that the movie star will be awarded a prize prize for her hard work during the<extra_id_0> ,award
+107,0.3496616,She can guess that the movie star will be awarded a prize prize for her hard work during the award<extra_id_0> ,ceremony
+108,6.899622,She can guess what the movie star will be awarded a prize prize for<extra_id_0> ,during
+109,0.66423696,She can guess what the movie star will be awarded a prize prize for during<extra_id_0> ,the
+110,5.8686466,She can guess what the movie star will be awarded a prize prize for during the<extra_id_0> ,award
+111,0.7802137,She can guess what the movie star will be awarded a prize prize for during the award<extra_id_0> ,ceremony
+112,5.8709245,She can guess what the movie star will be awarded a prize prize for her hard work<extra_id_0> ,during
+113,0.81865937,She can guess what the movie star will be awarded a prize prize for her hard work during<extra_id_0> ,the
+114,6.1243253,She can guess what the movie star will be awarded a prize prize for her hard work during the<extra_id_0> ,award
+115,0.4870137,She can guess what the movie star will be awarded a prize prize for her hard work during the award<extra_id_0> ,ceremony
+116,7.369891,The newspaper reported that the suspect killed the witness witness with<extra_id_0> ,in
+117,3.9077046,The newspaper reported that the suspect killed the witness witness with in<extra_id_0> ,the
+118,5.9180045,The newspaper reported that the suspect killed the witness witness with in the<extra_id_0> ,middle
+119,0.17220889,The newspaper reported that the suspect killed the witness witness with in the middle<extra_id_0> ,of
+120,0.26293278,The newspaper reported that the suspect killed the witness witness with in the middle of<extra_id_0> ,the
+121,1.2958821,The newspaper reported that the suspect killed the witness witness with in the middle of the<extra_id_0> ,night
+122,3.5742617,The newspaper reported that the suspect killed the witness witness with a gun<extra_id_0> ,in
+123,0.93123853,The newspaper reported that the suspect killed the witness witness with a gun in<extra_id_0> ,the
+124,3.853962,The newspaper reported that the suspect killed the witness witness with a gun in the<extra_id_0> ,middle
+125,0.024796456,The newspaper reported that the suspect killed the witness witness with a gun in the middle<extra_id_0> ,of
+126,0.19959615,The newspaper reported that the suspect killed the witness witness with a gun in the middle of<extra_id_0> ,the
+127,1.5184368,The newspaper reported that the suspect killed the witness witness with a gun in the middle of the<extra_id_0> ,night
+128,5.735247,The newspaper reported what the suspect killed the witness witness with<extra_id_0> ,in
+129,2.369835,The newspaper reported what the suspect killed the witness witness with in<extra_id_0> ,the
+130,8.298698,The newspaper reported what the suspect killed the witness witness with in the<extra_id_0> ,middle
+131,0.06531957,The newspaper reported what the suspect killed the witness witness with in the middle<extra_id_0> ,of
+132,0.3169637,The newspaper reported what the suspect killed the witness witness with in the middle of<extra_id_0> ,the
+133,0.96504426,The newspaper reported what the suspect killed the witness witness with in the middle of the<extra_id_0> ,night
+134,4.093849,The newspaper reported what the suspect killed the witness witness with a gun<extra_id_0> ,in
+135,0.98756063,The newspaper reported what the suspect killed the witness witness with a gun in<extra_id_0> ,the
+136,3.7173517,The newspaper reported what the suspect killed the witness witness with a gun in the<extra_id_0> ,middle
+137,0.034371108,The newspaper reported what the suspect killed the witness witness with a gun in the middle<extra_id_0> ,of
+138,0.245247,The newspaper reported what the suspect killed the witness witness with a gun in the middle of<extra_id_0> ,the
+139,1.145891,The newspaper reported what the suspect killed the witness witness with a gun in the middle of the<extra_id_0> ,night
+140,10.1767845,We recall that the man placed a delicate plate next to<extra_id_0> ,over
+141,4.944403,We recall that the man placed a delicate plate next to over<extra_id_0> ,an
+142,4.998,We recall that the man placed a delicate plate next to over an<extra_id_0> ,hour
+143,2.6659234,We recall that the man placed a delicate plate next to over an hour<extra_id_0> ,ago
+144,8.675139,We recall that the man placed a delicate plate next to the open fire<extra_id_0> ,over
+145,4.7619033,We recall that the man placed a delicate plate next to the open fire over<extra_id_0> ,an
+146,4.1920495,We recall that the man placed a delicate plate next to the open fire over an<extra_id_0> ,hour
+147,1.2266526,We recall that the man placed a delicate plate next to the open fire over an hour<extra_id_0> ,ago
+148,8.568393,We recall what the man placed a delicate plate next to<extra_id_0> ,over
+149,4.4608727,We recall what the man placed a delicate plate next to over<extra_id_0> ,an
+150,3.2455623,We recall what the man placed a delicate plate next to over an<extra_id_0> ,hour
+151,0.28714594,We recall what the man placed a delicate plate next to over an hour<extra_id_0> ,ago
+152,8.663042,We recall what the man placed a delicate plate next to the open fire<extra_id_0> ,over
+153,6.7287183,We recall what the man placed a delicate plate next to the open fire over<extra_id_0> ,an
+154,3.8780055,We recall what the man placed a delicate plate next to the open fire over an<extra_id_0> ,hour
+155,0.41191283,We recall what the man placed a delicate plate next to the open fire over an hour<extra_id_0> ,ago
+156,11.627511,I remember that the nurse should administer the new medicine medicine to<extra_id_0> ,without
+157,2.0419183,I remember that the nurse should administer the new medicine medicine to without<extra_id_0> ,any
+158,3.3363056,I remember that the nurse should administer the new medicine medicine to without any<extra_id_0> ,delay
+159,7.736841,I remember that the nurse should administer the new medicine medicine to the sick patient<extra_id_0> ,without
+160,1.903193,I remember that the nurse should administer the new medicine medicine to the sick patient without<extra_id_0> ,any
+161,2.7221107,I remember that the nurse should administer the new medicine medicine to the sick patient without any<extra_id_0> ,delay
+162,9.85641,I remember who the nurse should administer the new medicine medicine to<extra_id_0> ,without
+163,2.535152,I remember who the nurse should administer the new medicine medicine to without<extra_id_0> ,any
+164,4.086621,I remember who the nurse should administer the new medicine medicine to without any<extra_id_0> ,delay
+165,9.257417,I remember who the nurse should administer the new medicine medicine to the sick patient<extra_id_0> ,without
+166,2.3474317,I remember who the nurse should administer the new medicine medicine to the sick patient without<extra_id_0> ,any
+167,3.2414675,I remember who the nurse should administer the new medicine medicine to the sick patient without any<extra_id_0> ,delay
+168,11.678378,Our friend knew that the gossip column revealed family secrets secrets to<extra_id_0> ,yesterday
+169,10.404782,Our friend knew that the gossip column revealed family secrets secrets to the public<extra_id_0> ,yesterday
+170,8.632115,Our friend knew who the gossip column revealed family secrets secrets to<extra_id_0> ,yesterday
+171,9.337494,Our friend knew who the gossip column revealed family secrets secrets to the public<extra_id_0> ,yesterday
+172,7.138542,The mayor told me that the authorities repaired the golf course course for<extra_id_0> ,over
+173,4.040005,The mayor told me that the authorities repaired the golf course course for over<extra_id_0> ,the
+174,1.7653148,The mayor told me that the authorities repaired the golf course course for over the<extra_id_0> ,summer
+175,7.140778,The mayor told me that the authorities repaired the golf course course for a wealthy businessman<extra_id_0> ,over
+176,0.5708736,The mayor told me that the authorities repaired the golf course course for a wealthy businessman over<extra_id_0> ,the
+177,1.4106009,The mayor told me that the authorities repaired the golf course course for a wealthy businessman over the<extra_id_0> ,summer
+178,8.241605,The mayor told me who the authorities repaired the golf course course for<extra_id_0> ,over
+179,2.692035,The mayor told me who the authorities repaired the golf course course for over<extra_id_0> ,the
+180,1.8383198,The mayor told me who the authorities repaired the golf course course for over the<extra_id_0> ,summer
+181,7.305527,The mayor told me who the authorities repaired the golf course course for a wealthy businessman<extra_id_0> ,over
+182,0.6426678,The mayor told me who the authorities repaired the golf course course for a wealthy businessman over<extra_id_0> ,the
+183,2.0115087,The mayor told me who the authorities repaired the golf course course for a wealthy businessman over the<extra_id_0> ,summer
+184,10.523683,My friend remembers that the government collected sensitive data data about<extra_id_0> ,using
+185,6.3709044,My friend remembers that the government collected sensitive data data about using<extra_id_0> ,illegal
+186,3.2903092,My friend remembers that the government collected sensitive data data about using illegal<extra_id_0> ,methods
+187,7.9034877,My friend remembers that the government collected sensitive data data about foreign threats<extra_id_0> ,using
+188,5.667283,My friend remembers that the government collected sensitive data data about foreign threats using<extra_id_0> ,illegal
+189,1.2202189,My friend remembers that the government collected sensitive data data about foreign threats using illegal<extra_id_0> ,methods
+190,9.70337,My friend remembers what the government collected sensitive data data about<extra_id_0> ,using
+191,6.0627527,My friend remembers what the government collected sensitive data data about using<extra_id_0> ,illegal
+192,2.9940605,My friend remembers what the government collected sensitive data data about using illegal<extra_id_0> ,methods
+193,8.381674,My friend remembers what the government collected sensitive data data about foreign threats<extra_id_0> ,using
+194,5.6346197,My friend remembers what the government collected sensitive data data about foreign threats using<extra_id_0> ,illegal
+195,1.5021578,My friend remembers what the government collected sensitive data data about foreign threats using illegal<extra_id_0> ,methods
+196,8.911258,The newspaper said that the neighbors sold a convertible convertible to<extra_id_0> ,last
+197,2.862836,The newspaper said that the neighbors sold a convertible convertible to last<extra_id_0> ,month
+198,4.518289,The newspaper said that the neighbors sold a convertible convertible to the new couple<extra_id_0> ,last
+199,1.4947401,The newspaper said that the neighbors sold a convertible convertible to the new couple last<extra_id_0> ,month
+200,4.4209566,The newspaper said who the neighbors sold a convertible convertible to<extra_id_0> ,last
+201,2.2596846,The newspaper said who the neighbors sold a convertible convertible to last<extra_id_0> ,month
+202,4.573939,The newspaper said who the neighbors sold a convertible convertible to the new couple<extra_id_0> ,last
+203,1.4949402,The newspaper said who the neighbors sold a convertible convertible to the new couple last<extra_id_0> ,month
+204,9.949258,Our neighbor said that the student sent a package package to<extra_id_0> ,over
+205,2.672252,Our neighbor said that the student sent a package package to over<extra_id_0> ,a
+206,5.0307827,Our neighbor said that the student sent a package package to over a<extra_id_0> ,week
+207,1.6351835,Our neighbor said that the student sent a package package to over a week<extra_id_0> ,ago
+208,6.809949,Our neighbor said that the student sent a package package to her mother<extra_id_0> ,over
+209,3.9336345,Our neighbor said that the student sent a package package to her mother over<extra_id_0> ,a
+210,1.4567548,Our neighbor said that the student sent a package package to her mother over a<extra_id_0> ,week
+211,0.47452444,Our neighbor said that the student sent a package package to her mother over a week<extra_id_0> ,ago
+212,8.419838,Our neighbor said who the student sent a package package to<extra_id_0> ,over
+213,3.9408398,Our neighbor said who the student sent a package package to over<extra_id_0> ,a
+214,1.3477695,Our neighbor said who the student sent a package package to over a<extra_id_0> ,week
+215,0.15283503,Our neighbor said who the student sent a package package to over a week<extra_id_0> ,ago
+216,8.086452,Our neighbor said who the student sent a package package to her mother<extra_id_0> ,over
+217,4.396335,Our neighbor said who the student sent a package package to her mother over<extra_id_0> ,a
+218,1.7097167,Our neighbor said who the student sent a package package to her mother over a<extra_id_0> ,week
+219,0.11768875,Our neighbor said who the student sent a package package to her mother over a week<extra_id_0> ,ago
+220,9.4721775,My friend told me that the university hired a new administrator to help with<extra_id_0> ,for
+221,2.64135,My friend told me that the university hired a new administrator to help with for<extra_id_0> ,the
+222,6.4960103,My friend told me that the university hired a new administrator to help with for the<extra_id_0> ,following
+223,1.0586624,My friend told me that the university hired a new administrator to help with for the following<extra_id_0> ,year
+224,5.4069133,My friend told me that the university hired a new administrator to help with increased enrollment<extra_id_0> ,for
+225,1.1644651,My friend told me that the university hired a new administrator to help with increased enrollment for<extra_id_0> ,the
+226,5.6028433,My friend told me that the university hired a new administrator to help with increased enrollment for the<extra_id_0> ,following
+227,1.121394,My friend told me that the university hired a new administrator to help with increased enrollment for the following<extra_id_0> ,year
+228,6.1070304,My friend told me what the university hired a new administrator to help with<extra_id_0> ,for
+229,1.1855527,My friend told me what the university hired a new administrator to help with for<extra_id_0> ,the
+230,5.9833393,My friend told me what the university hired a new administrator to help with for the<extra_id_0> ,following
+231,0.91105205,My friend told me what the university hired a new administrator to help with for the following<extra_id_0> ,year
+232,5.989608,My friend told me what the university hired a new administrator to help with increased enrollment<extra_id_0> ,for
+233,1.4054735,My friend told me what the university hired a new administrator to help with increased enrollment for<extra_id_0> ,the
+234,5.7033043,My friend told me what the university hired a new administrator to help with increased enrollment for the<extra_id_0> ,following
+235,0.98979867,My friend told me what the university hired a new administrator to help with increased enrollment for the following<extra_id_0> ,year
+236,10.403076,She can not believe that my good friend stole a candy bar bar from<extra_id_0> ,when
+237,4.1853976,She can not believe that my good friend stole a candy bar bar from when<extra_id_0> ,he
+238,0.4895549,She can not believe that my good friend stole a candy bar bar from when he<extra_id_0> ,was
+239,3.248607,She can not believe that my good friend stole a candy bar bar from when he was<extra_id_0> ,young
+240,5.684421,She can not believe that my good friend stole a candy bar bar from the store<extra_id_0> ,when
+241,4.65755,She can not believe that my good friend stole a candy bar bar from the store when<extra_id_0> ,he
+242,0.80427694,She can not believe that my good friend stole a candy bar bar from the store when he<extra_id_0> ,was
+243,3.9168444,She can not believe that my good friend stole a candy bar bar from the store when he was<extra_id_0> ,young
+244,8.998958,She can not believe what my good friend stole a candy bar bar from<extra_id_0> ,when
+245,3.924729,She can not believe what my good friend stole a candy bar bar from when<extra_id_0> ,he
+246,0.96232545,She can not believe what my good friend stole a candy bar bar from when he<extra_id_0> ,was
+247,3.2349079,She can not believe what my good friend stole a candy bar bar from when he was<extra_id_0> ,young
+248,6.1166806,She can not believe what my good friend stole a candy bar bar from the store<extra_id_0> ,when
+249,4.1716466,She can not believe what my good friend stole a candy bar bar from the store when<extra_id_0> ,he
+250,1.0893657,She can not believe what my good friend stole a candy bar bar from the store when he<extra_id_0> ,was
+251,3.577057,She can not believe what my good friend stole a candy bar bar from the store when he was<extra_id_0> ,young
+252,10.17888,Our neighbor reminded us that the truck dragged the car out of<extra_id_0> ,last
+253,5.6610293,Our neighbor reminded us that the truck dragged the car out of last<extra_id_0> ,spring
+254,5.726018,Our neighbor reminded us that the truck dragged the car out of the swamp<extra_id_0> ,last
+255,4.6812944,Our neighbor reminded us that the truck dragged the car out of the swamp last<extra_id_0> ,spring
+256,7.200564,Our neighbor reminded us what the truck dragged the car out of<extra_id_0> ,last
+257,6.171314,Our neighbor reminded us what the truck dragged the car out of last<extra_id_0> ,spring
+258,6.7576118,Our neighbor reminded us what the truck dragged the car out of the swamp<extra_id_0> ,last
+259,5.2964845,Our neighbor reminded us what the truck dragged the car out of the swamp last<extra_id_0> ,spring
+260,9.561096,The shop owner told me that the restaurant prepared a meal meal for<extra_id_0> ,yesterday
+261,2.7386804,The shop owner told me that the restaurant prepared a meal meal for yesterday<extra_id_0> ,evening
+262,7.280174,The shop owner told me that the restaurant prepared a meal meal for their favorite guests<extra_id_0> ,yesterday
+263,2.0829933,The shop owner told me that the restaurant prepared a meal meal for their favorite guests yesterday<extra_id_0> ,evening
+264,6.3956017,The shop owner told me who the restaurant prepared a meal meal for<extra_id_0> ,yesterday
+265,2.7635608,The shop owner told me who the restaurant prepared a meal meal for yesterday<extra_id_0> ,evening
+266,7.477637,The shop owner told me who the restaurant prepared a meal meal for their favorite guests<extra_id_0> ,yesterday
+267,2.4060764,The shop owner told me who the restaurant prepared a meal meal for their favorite guests yesterday<extra_id_0> ,evening
+268,8.475759,My sister told me that the newspaper published a long story story about<extra_id_0> ,last
+269,2.7824414,My sister told me that the newspaper published a long story story about last<extra_id_0> ,month
+270,6.559057,My sister told me that the newspaper published a long story story about the mayor<extra_id_0> ,last
+271,1.9839631,My sister told me that the newspaper published a long story story about the mayor last<extra_id_0> ,month
+272,5.861573,My sister told me who the newspaper published a long story story about<extra_id_0> ,last
+273,2.8564317,My sister told me who the newspaper published a long story story about last<extra_id_0> ,month
+274,6.4461107,My sister told me who the newspaper published a long story story about the mayor<extra_id_0> ,last
+275,2.1641562,My sister told me who the newspaper published a long story story about the mayor last<extra_id_0> ,month
+276,7.1606054,We remember that our new friend brought a large present present to<extra_id_0> ,last
+277,6.115113,We remember that our new friend brought a large present present to last<extra_id_0> ,weekend
+278,4.4696403,We remember that our new friend brought a large present present to the birthday party<extra_id_0> ,last
+279,3.382691,We remember that our new friend brought a large present present to the birthday party last<extra_id_0> ,weekend
+280,6.4180565,We remember what our new friend brought a large present present to<extra_id_0> ,last
+281,4.906433,We remember what our new friend brought a large present present to last<extra_id_0> ,weekend
+282,5.1483417,We remember what our new friend brought a large present present to the birthday party<extra_id_0> ,last
+283,3.3063731,We remember what our new friend brought a large present present to the birthday party last<extra_id_0> ,weekend
